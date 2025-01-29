@@ -79,3 +79,10 @@ class Solution(object):
         # encountering any mismatches in the character mappings, it returns `True` to signify that the
         # strings are indeed isomorphic.
         return True
+
+
+#Another way of achieving the same
+def isIso(s,t):
+    return len(s) == len(t) and len(set(s)) == len(set(t))
+
+print(isIso("foo", "boo")) # False
