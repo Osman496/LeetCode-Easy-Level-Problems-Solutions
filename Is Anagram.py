@@ -43,3 +43,9 @@ class Solution:
         
 print(Solution.Anagram.isanagram("anagram","nagaram"))
 print(Solution.Anagram.isanagram("rat","car"))
+
+
+#2nd Way of doing this
+def isAnagram(s,t):
+    return len(s) == len(t) and sorted(s) == sorted(t)
+print(isAnagram("anagram", "nagaram")) # True
