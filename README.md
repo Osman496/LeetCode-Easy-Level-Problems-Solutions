@@ -15,7 +15,7 @@ This structure ensures that you can easily find and work on individual problems 
 🛠️ How to Use This Repository
 
 Clone the Repository:
-git clone https://github.com/your-username/leetcode-easy-solutions.git
+git clone https://github.com/Osman496/leetcode-easy-solutions.git
 
 Navigate to the Problem:
 Browse through the files to find the problem you're interested in. Each file contains a solution with comments explaining the approach.
