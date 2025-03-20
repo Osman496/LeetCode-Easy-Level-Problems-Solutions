@@ -1,93 +1,117 @@
-LeetCode Easy Level Problems Solutions
-Welcome to the LeetCode Easy Level Problems Solutions repository! 🎉
-This repository is designed to help you practice and master solving easy-level problems on LeetCode. Each problem solution is neatly organized in its own Python file, making it easy for you to navigate, learn, and practice.
+# 🏆 LeetCode Easy Level Problems Solutions  
 
-Whether you're a beginner looking to improve your coding skills or an experienced developer brushing up on fundamentals, this repository is here to support your journey. Dive in, explore, and happy coding! 🚀
+Welcome to the **LeetCode Easy Level Problems Solutions** repository! 🎉  
 
-📁 Repository Structure
-Each LeetCode problem solution is stored in its own Python file, named after the problem title or its LeetCode ID. For example:
-├── Two Sums.py
+This repository is designed to help you **practice and master solving easy-level problems** on LeetCode. Each problem solution is neatly organized in its own Python file, making it easy for you to **navigate, learn, and practice**.  
+
+Whether you're a **beginner improving your coding skills** or an **experienced developer brushing up on fundamentals**, this repository is here to support your journey.  
+
+💡 **Explore, practice, and enhance your problem-solving skills!** 🚀  
+
+---
+
+## 📁 Repository Structure  
+
+Each **LeetCode problem solution** is stored in its own Python file, named after the problem title or its LeetCode ID.  
+
+For example:  
+
+```
+📂 LeetCode-Easy-Level-Problems-Solutions
+├── Two Sum.py
 ├── Contains Duplicate.py
-└── README.md
-e.t.c.
-This structure ensures that you can easily find and work on individual problems without any confusion.
+├── Best Time to Buy and Sell Stock.py
+├── README.md
+└── ...
+```
 
-🛠️ How to Use This Repository
+This structure ensures that you can **easily find and work** on individual problems without any confusion.  
 
-Clone the Repository:
-[git@github.com:Osman496/LeetCode-Easy-Level-Problems-Solutions.git](https://github.com/Osman496/LeetCode-Easy-Level-Problems-Solutions.git)
+---
 
-Navigate to the Problem:
-Browse through the files to find the problem you're interested in. Each file contains a solution with comments explaining the approach.
+## 🛠️ How to Use This Repository  
 
-Run the Code:
-You can run the Python files locally to test the solutions or modify them to experiment with different approaches.
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/Osman496/LeetCode-Easy-Level-Problems-Solutions.git
+```
 
-Contribute:
-If you have a better solution or want to add a new problem, feel free to open a pull request! Contributions are always welcome. See the Contribution Guidelines below.
+2️⃣ **Navigate to the Problem**  
+- Browse through the files to find the problem you're interested in.  
+- Each file contains a **well-commented solution** explaining the approach.  
 
-🧩 Problems Solved
-Here are some of the problems you'll find in this repository:
+3️⃣ **Run the Code**  
+- Run the Python files locally to test the solutions.  
+- Modify them to experiment with different approaches.  
 
-Two Sum - Find two numbers in an array that add up to a target value.
+4️⃣ **Contribute** 🤝  
+- Have a better solution? Want to add a new problem? See the **Contribution Guidelines** below!  
 
-Contains Duplicate - Check if an array contains duplicate elements.
+---
 
-Best Time to Buy and Sell Stock - Maximize profit by buying and selling stocks.
+## 🧩 Problems Solved  
 
-Valid Anagram - Determine if two strings are anagrams of each other.
+Here are some of the problems you'll find in this repository:  
 
-e.t.c
+✅ **Two Sum** - Find two numbers in an array that add up to a target value.  
+✅ **Contains Duplicate** - Check if an array contains duplicate elements.  
+✅ **Best Time to Buy and Sell Stock** - Maximize profit by buying and selling stocks.  
+✅ **Valid Anagram** - Determine if two strings are anagrams of each other.  
+✅ ...and many more!  
 
-...and many more! Check out the files for a complete list.
+📂 **Check out the files for a complete list!**  
 
-🤝 Contribution Guidelines
-We welcome contributions to make this repository even better! Here's how you can help:
+---
 
-Add a New Solution:
+## 🤝 Contribution Guidelines  
 
-If you've solved a problem that isn't already in the repository, add your solution in a new Python file.
+We **welcome contributions** to make this repository even better! Here's how you can help:  
 
-Follow the existing naming convention (e.g., problem_name.py).
+### 📝 Add a New Solution  
+🔹 If you've solved a problem that isn't already in the repo, add your solution in a new Python file.  
+🔹 Follow the existing naming convention (e.g., `problem_name.py`).  
 
-Improve Existing Solutions:
+### ✨ Improve Existing Solutions  
+🔹 If you have a **more efficient or cleaner** solution, feel free to update the existing files.  
+🔹 Add meaningful **comments to explain your approach**.  
 
-If you have a more efficient or cleaner solution, feel free to update the existing files.
+### 🐞 Report Issues  
+🔹 Found a bug? Open an issue and let us know!  
 
-Add comments to explain your approach.
+### ⚡ Follow Best Practices  
+✔️ Write **clean, readable, and well-documented** code.  
+✔️ Use **meaningful variable names** and add comments where necessary.  
 
-Report Issues:
+---
 
-If you find any bugs or issues in the existing solutions, open an issue to let us know.
+## 🔥 How to Contribute  
 
-Follow Best Practices:
+1️⃣ **Fork the repository**  
+2️⃣ **Create a new branch** for your changes  
+3️⃣ **Commit your changes** with a clear and descriptive message  
+4️⃣ **Open a pull request** – We'll review it ASAP! 🚀  
 
-Write clean, readable, and well-documented code.
+---
 
-Use meaningful variable names and add comments where necessary.
+## 📜 License  
 
-To contribute:
+This repository is licensed under the **MIT License**.  
+Feel free to **use, modify, and distribute** the code as needed. See the [LICENSE](LICENSE) file for details.  
 
-Fork the repository.
+---
 
-Create a new branch for your changes.
+## 🙌 Acknowledgments  
 
-Commit your changes with a clear and descriptive message.
+A **huge thank you** to the **LeetCode community** for providing such an amazing platform to practice coding problems.  
+Special thanks to **all contributors** who have helped make this repository better! 🎉  
 
-Open a pull request, and we'll review it as soon as possible.
+---
 
-📜 License
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. See the LICENSE file for more details.
+## 📬 Contact  
 
-🙏 Acknowledgments
-A big thank you to the LeetCode community for providing such an amazing platform to practice coding problems. Special thanks to all contributors who have helped make this repository better!
+📧 **Email**: 4shtsm@gmail.com  
+📞 **Phone**: +923367818757  
 
-📬 Contact
-If you have any questions, suggestions, or just want to connect, feel free to reach out:
+💡 Have any questions, suggestions, or just want to connect? Feel free to reach out!  
 
-Email: 4shtsm@gmail.com
-
-Phone: +923367818757
-
-Happy Coding! 💻
-Let's solve problems and grow together! 🌱
+🚀 **Happy Coding!** 💻 Let's solve problems and grow together! 🌱  
