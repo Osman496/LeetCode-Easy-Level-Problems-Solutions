@@ -21,8 +21,7 @@ For example:
 ├── Two Sum.py
 ├── Contains Duplicate.py
 ├── Best Time to Buy and Sell Stock.py
-├── README.md
-└── ...
+├── And many more...
 ```
 
 This structure ensures that you can **easily find and work** on individual problems without any confusion.  
